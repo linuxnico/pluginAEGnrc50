@@ -135,5 +135,5 @@ foreach (jeeObject::all() as $object) {
 </div>
 </div>
 
-<?php include_file('desktop', AEG_nrc50, 'js', AEG_nrc50);?>
+<?php include_file('desktop', AEG_nrc50, 'js', 'AEG_nrc50');?>
 <?php include_file('core', 'plugin.template', 'js');?>
